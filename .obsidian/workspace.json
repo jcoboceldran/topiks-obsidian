@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "3896a70dc7aab851",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f05ae780106da8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd47b056d8eb55f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1365e2bf0782d13f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9723081bc3d222a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definition of the idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f66372a8fff7174",
+    "type": "split",
+    "children": [
+      {
+        "id": "714815248c5920a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a21d4b49ae0f2096",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66eec8b1586b5d45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d73062dbf2f1dfd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63ae3a3e2cf53eb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c88dec33e9d086b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4bbba49bd3514c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aba2b77c86b8588c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62f94ffe8fc7f383",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "706c7c4b4b51cce0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a21d4b49ae0f2096",
+  "lastOpenFiles": [
+    "Research.md",
+    "Ideas.md",
+    "Gameplan.md",
+    "Definition of the idea.md",
+    "Design.md",
+    "Planification.md",
+    "Mock up.md",
+    "Welcome.md"
+  ]
+}
