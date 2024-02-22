@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "1365e2bf0782d13f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9723081bc3d222a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
