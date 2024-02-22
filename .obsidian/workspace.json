@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research.md",
+                "file": "Definition of the idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definition of the idea.md",
+                "file": "Planification.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research.md",
+                "file": "Definition of the idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research.md",
+                "file": "Definition of the idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research.md"
+                "file": "Definition of the idea.md"
               }
             }
           }
@@ -164,15 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a21d4b49ae0f2096",
+  "active": "bd47b056d8eb55f1",
   "lastOpenFiles": [
     "Research.md",
-    "Ideas.md",
-    "Gameplan.md",
-    "Definition of the idea.md",
-    "Design.md",
     "Planification.md",
+    "Design.md",
+    "Definition of the idea.md",
+    "Gameplan.md",
     "Mock up.md",
+    "Ideas.md",
     "Welcome.md"
   ]
 }

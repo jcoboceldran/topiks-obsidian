@@ -1,3 +1,3 @@
-- [[Information]]
-- [[Processes]]
+- [[Information on social media]]
+- [[Processes and tools]]
 - [[Technical tools]]

@@ -1,6 +1,7 @@
 {
-  "accentColor": "#000000",
-  "cssTheme": "Atom",
+  "accentColor": "#545454",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "theme": "moonstone"
 }
