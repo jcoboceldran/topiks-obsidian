@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definition of the idea.md",
+                "file": "Processes and tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definition of the idea.md",
+                "file": "Processes and tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definition of the idea.md",
+                "file": "Processes and tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definition of the idea.md"
+                "file": "Processes and tools.md"
               }
             }
           }
@@ -149,10 +149,13 @@
   "active": "bd47b056d8eb55f1",
   "lastOpenFiles": [
     "Research.md",
-    "Planification.md",
-    "Design.md",
-    "Definition of the idea.md",
+    "Processes and tools.md",
+    "Information on social media.md",
     "Gameplan.md",
+    "Design.md",
+    "Requirements.md",
+    "Definition of the idea.md",
+    "Planification.md",
     "Mock up.md",
     "Ideas.md",
     "Welcome.md"
