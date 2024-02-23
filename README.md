@@ -1,1 +1,1 @@
-# Topiks-Obsidian
+# Topiks Obsidian
