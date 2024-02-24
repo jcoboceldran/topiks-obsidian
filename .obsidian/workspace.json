@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definition of the idea.md",
+                "file": "Technical tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definition of the idea.md",
+                "file": "Technical tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definition of the idea.md",
+                "file": "Technical tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definition of the idea.md"
+                "file": "Technical tools.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "bd47b056d8eb55f1",
   "lastOpenFiles": [
-    "Processes and tools.md",
     "Research.md",
-    "Information on social media.md",
-    "Gameplan.md",
-    "Design.md",
-    "Requirements.md",
+    "Technical tools.md",
     "Definition of the idea.md",
+    "Design.md",
+    "Gameplan.md",
+    "Processes and tools.md",
+    "Information on social media.md",
+    "Requirements.md",
     "Planification.md",
     "Mock up.md",
     "Ideas.md",
