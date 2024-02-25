@@ -1,5 +1,5 @@
 # Idea paragraph
-A social medie based on fact checked information with opinions, divided in user relevant Topiks. A social media that by the definition of its structure only allows for truthful and valuable content. A social media in which entertainment is given by value, and not the other way around. 
+A social media based on fact checked information with opinions, divided in user relevant Topiks. A social media that by the definition of its structure only allows for truthful and valuable content. A social media in which entertainment is given by value, and not the other way around. 
 # Principles
 1. We accept that full truth is unachievable, but we strive to get as close to it as possible, we aim to eliminate as much bias as possible.
 2. Entertainment is not value, but value is entertaining.
