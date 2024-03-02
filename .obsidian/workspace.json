@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example content.md",
+                "file": "Definition of the idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example content.md",
+                "file": "Definition of the idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example content.md",
+                "file": "Definition of the idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example content.md"
+                "file": "Definition of the idea.md"
               }
             }
           }
@@ -148,23 +148,25 @@
   },
   "active": "bd47b056d8eb55f1",
   "lastOpenFiles": [
-    "Resources/Pasted image 20240225111616.png",
+    "Resources/class_diagram.drawio.png",
+    "Untitled.canvas",
+    "Definition of the idea.md",
+    "Technical tools.md",
+    "Research.md",
+    "Gameplan.md",
+    "Design.md",
     "Example content.md",
+    "Resources/Pasted image 20240225110142.png",
+    "Resources/Pasted image 20240225111616.png",
     "Resources/Pasted image 20240225111625.png",
     "Resources/Pasted image 20240225110924.png",
     "Resources/Pasted image 20240225110641.png",
     "Resources/Pasted image 20240225110326.png",
-    "Resources/Pasted image 20240225110142.png",
     "Resources",
     "Resources/Pasted image 20240225110209.png",
     "Resources/Pasted image 20240225110203.png",
     "Resources/Pasted image 20240225110153.png",
     "Resources/Pasted image 20240225110148.png",
-    "Design.md",
-    "Gameplan.md",
-    "Definition of the idea.md",
-    "Technical tools.md",
-    "Research.md",
     "Processes and tools.md",
     "Information on social media.md",
     "Requirements.md",
